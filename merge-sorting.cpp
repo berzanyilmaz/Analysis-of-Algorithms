@@ -1,9 +1,3 @@
-/* Calisma 2 - Yapilacaklar
-1- Oncelikle asagida uygun yerlere birlestirmeli sıralama algoritmasini yaziniz. Algoritmanin dogru calistigindan emin olunuz.
-2- Daha sonra iki farkli siralama algoritmasinin performansini farkli girdi boyutlari ile karsilastiriniz - Ornegin 100, 1000, 10000, 100000 sayi gibi.
-3- Sonuclarinizi ve yazdiginiz kodu e-posta ile bana gonderebilirsiniz.
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
